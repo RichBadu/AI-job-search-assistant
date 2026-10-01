@@ -32,3 +32,5 @@ Thumbs.db
 # Dependencies
 node_modules/
 uploads/
+
+reports/
